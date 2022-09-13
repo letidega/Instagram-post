@@ -1,0 +1,68 @@
+.icons {
+    width: 100px;
+    display: flex;
+}
+
+.container1 {
+    display: flex;
+}
+
+.pfp {
+    width: 45px;
+    height: 45px;
+    border-radius: 100%;
+    padding: 5px;
+    margin-right: 7px;
+    float: left; 
+}
+
+.header {
+    display: flex;
+    width: 100%;
+}
+
+.options{
+    width: 40px;
+    margin-top: 11px;
+}
+
+.pic {
+    width: 600px;
+    height: 420px;
+    object-fit: contain;    
+}
+
+h1 {
+    padding-top: 5px;
+    margin-bottom: -5px;
+}
+h1, h2 {
+    font-size: 12px;
+    font-family: sans-serif;
+}
+.container2 {
+    display: flex;
+}
+.save {
+    width: 35px;
+    margin-left: 460px;
+}
+.divpadre {
+    width:600px;
+    padding: 60px;
+    align-items: center;
+    background-color:black;
+}
+
+.divhijo {
+    padding: 5px 0px 20px 0px;
+    background-color:white;
+    margin:0px auto;
+}
+
+p {
+    padding-left: 3px;
+    padding-right: 3px;
+    font-size: 12px;
+    font-family: sans-serif;
+} 
